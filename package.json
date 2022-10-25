@@ -3,6 +3,9 @@
   "version": "0.0.2",
   "description": "API project for freeCodeCamp",
   "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "start": "node index.js"
   },
